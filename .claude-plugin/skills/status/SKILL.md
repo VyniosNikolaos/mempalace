@@ -1,5 +1,5 @@
 ---
-name: status
+name: mempalace:status
 description: Show the current state of your memory palace — wings, rooms, drawer counts, and suggestions.
 ---
 

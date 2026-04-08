@@ -1,5 +1,5 @@
 ---
-name: init
+name: mempalace:init
 description: Set up MemPalace — install the package, initialize a palace, configure MCP server, and verify everything works.
 ---
 

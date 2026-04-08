@@ -1,5 +1,5 @@
 ---
-name: help
+name: mempalace:help
 description: Show comprehensive MemPalace help — available skills, MCP tools, CLI commands, hooks, and architecture.
 ---
 

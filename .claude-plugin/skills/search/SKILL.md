@@ -1,5 +1,5 @@
 ---
-name: search
+name: mempalace:search
 description: Search your memories across the MemPalace using semantic search with wing/room filtering.
 ---
 

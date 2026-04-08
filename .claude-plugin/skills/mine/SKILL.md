@@ -1,5 +1,5 @@
 ---
-name: mine
+name: mempalace:mine
 description: Mine projects and conversations into the MemPalace. Supports project files, conversation exports, and auto-classification.
 ---
 
